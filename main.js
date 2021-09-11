@@ -101,7 +101,7 @@ SC.initialize({
 
 $(document).ready(function() {
 
- SC.stream('/tracks/253750438',function(sound){
+ SC.stream('/tracks/380996297',function(sound){
 
    $('#start4').click(function(e) {
              e.preventDefault();
@@ -126,7 +126,7 @@ SC.initialize({
 
 $(document).ready(function() {
 
- SC.stream('/tracks/842122354',function(sound){
+ SC.stream('/tracks/253750438',function(sound){
 
    $('#start5').click(function(e) {
              e.preventDefault();
